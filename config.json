@@ -92,7 +92,7 @@
             "required": true
         }
     ],
-    "appVersion": "2.0.2",
-    "buildNumber": 12,
+    "appVersion": "2.12.0",
+    "buildNumber": 13,
     "runtimeUrl": "https://mobilepc-tst.pre-app.asml.com"
 }

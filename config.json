@@ -92,7 +92,7 @@
             "required": true
         }
     ],
-    "appVersion": "3.0.0",
-    "buildNumber": 14,
+    "appVersion": "4.0.0",
+    "buildNumber": 15,
     "runtimeUrl": "https://mobilepc-tst.pre-app.asml.com"
 }

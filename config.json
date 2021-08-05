@@ -1,6 +1,6 @@
 {
     "configVersion": 2,
-    "appIdentifier": "com.mxmobilepoc.mobile",
+    "appIdentifier": "com.asml.mobilepctst",
     "appName": "Mx Mobile PoC",
     "bundleName": {
         "main": "MxMobilePoC",
@@ -16,7 +16,7 @@
     },
     "capabilities": {
         "deepLink": {
-            "value": "mobilepoc",
+            "value": "mobilepocapp",
             "enabled": true
         },
         "maps": {
@@ -92,7 +92,7 @@
             "required": true
         }
     ],
-    "appVersion": "1.22.0",
-    "buildNumber": 16,
-    "runtimeUrl": "https://mobilepc-tst.pre-app.asml.com"
+    "appVersion": "9.0.0",
+    "buildNumber": 8,
+    "runtimeUrl": "https://mobilepc-tst.pre-app.asml.com/"
 }
